@@ -10,7 +10,7 @@ Test the code with:
     
 **proof:**
 
-![Meta Advanced React Course - Final Project [complete grade]](https://github.com/Rghaf/Meta-Advanced-React-Course/blob/master/Screenshot%20from%202023-01-17%2023-12-39.png)
+![Meta Advanced React Course - Final Project [complete grade]]
 
 
 Hope this be useful for your React and Front-end development learning journey!
